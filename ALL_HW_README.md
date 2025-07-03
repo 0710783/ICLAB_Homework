@@ -15,3 +15,5 @@
 8.HW7_CDC is about clock domain crossing,it will give us two clock in one design,and we need to use some verilog logic to decide when should we use clock 1 and when should we use clock 2
 
 9.HW8 is about how to use clock gating to reduce power consumption
+
+10.HW9 is about system verilog , HW10 is the pattern of HW9.Because the TA made the assignment very complex and difficult, it was divided into two parts.
