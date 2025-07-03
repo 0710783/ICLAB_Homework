@@ -5,3 +5,5 @@
 3.SUBWAY_save is about implementing the player movement patterns in the popular game Subway Surfers.
 
 4.NN_save is about Recurrent Neural Network,the calculation in this project is complicated,we need to use IEEE floating point to solve it.
+
+5.MMT_save is the project that we need to learn how to use SRAM,so the homework is mainly about how we use sram to save data and read the data to do some calculation.
