@@ -17,3 +17,5 @@
 9.HW8 is about how to use clock gating to reduce power consumption
 
 10.HW9 is about system verilog,and we need to use concept of bridge to solve the problem , HW10 is the pattern of HW9.Because the TA made the assignment very complex and difficult, it was divided into two parts.
+
+11.HW11 & HW12 are mainly about APR,so there's no coding that can be included.
