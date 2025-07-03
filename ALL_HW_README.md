@@ -10,12 +10,14 @@
 
 6.HW6 is similar to HW4,the different is that we need to write our own IP this time.
 
-7.Miterm_GLCM_save is about how to use dram to solve GLCM problem,and it should follow AXI4 protocol
+7.Midterm_GLCM_save is about how to use dram to solve GLCM problem,and it should follow AXI4 protocol
 
-8.HW7_CDC is about clock domain crossing,it will give us two clock in one design,and we need to use some verilog logic to decide when should we use clock 1 and when should we use clock 2
+8.Midterm_test_TRIANGLE is our Midterm exam,we need to use IP to solve the problem(Since the exam questions must not be disclosed,I can only remember that it was about some complicated triangle problem) 
 
-9.HW8 is about how to use clock gating to reduce power consumption
+9.HW7_CDC is about clock domain crossing,it will give us two clock in one design,and we need to use some verilog logic to decide when should we use clock 1 and when should we use clock 2
 
-10.HW9 is about system verilog,and we need to use concept of bridge to solve the problem , HW10 is the pattern of HW9.Because the TA made the assignment very complex and difficult, it was divided into two parts.
+10.HW8 is about how to use clock gating to reduce power consumption
 
-11.HW11 & HW12 are mainly about APR,so there's no coding that can be included.
+11.HW9 is about system verilog,and we need to use concept of bridge to solve the problem , HW10 is the pattern of HW9.Because the TA made the assignment very complex and difficult, it was divided into two parts.
+
+12.HW11 & HW12 are mainly about APR,so there's no coding that can be included.
