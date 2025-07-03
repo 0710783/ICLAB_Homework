@@ -13,3 +13,5 @@
 7.Miterm_GLCM_save is about how to use dram to solve GLCM problem,and it should follow AXI4 protocol
 
 8.HW7_CDC is about clock domain crossing,it will give us two clock in one design,and we need to use some verilog logic to decide when should we use clock 1 and when should we use clock 2
+
+9.HW8 is about how to use clock gating to reduce power consumption
