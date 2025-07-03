@@ -9,3 +9,5 @@
 5.MMT_save is the project that we need to learn how to use SRAM,so the homework is mainly about how we use sram to save data and read the data to do some calculation.
 
 6.HW6 is similar to HW4,the different is that we need to write our own IP this time.
+
+7.Miterm_GLCM_save is about how to use dram to solve GLCM problem,and it should follow AXI4 protocol
