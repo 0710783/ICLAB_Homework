@@ -3,3 +3,5 @@
 2.queen_save is about how to solve the 12-queens problem(advanced-8-queens)
 
 3.SUBWAY_save is about implementing the player movement patterns in the popular game Subway Surfers.
+
+4.NN_save is about Recurrent Neural Network,the calculation in this project is complicated,we need to use IEEE floating point to solve it.
